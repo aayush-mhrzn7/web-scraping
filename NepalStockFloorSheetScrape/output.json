@@ -1,0 +1,202 @@
+[
+    {
+        "SN": "1",
+        " Contract No. ": "2024112804020853",
+        " Stock Symbol ": " NGPL ",
+        " Buyer ": " 22 ",
+        " Seller ": " 7 ",
+        " Quantity ": "100",
+        " Rate (Rs) ": " 475.00 ",
+        " Amount (Rs) ": " 47,500.00 "
+    },
+    {
+        "SN": "2",
+        " Contract No. ": "2024112801019766",
+        " Stock Symbol ": " USHEC ",
+        " Buyer ": " 7 ",
+        " Seller ": " 47 ",
+        " Quantity ": "10",
+        " Rate (Rs) ": " 648.00 ",
+        " Amount (Rs) ": " 6,480.00 "
+    },
+    {
+        "SN": "3",
+        " Contract No. ": "2024112804020852",
+        " Stock Symbol ": " SPIL ",
+        " Buyer ": " 44 ",
+        " Seller ": " 48 ",
+        " Quantity ": "80",
+        " Rate (Rs) ": " 862.00 ",
+        " Amount (Rs) ": " 68,960.00 "
+    },
+    {
+        "SN": "4",
+        " Contract No. ": "2024112804020851",
+        " Stock Symbol ": " SPIL ",
+        " Buyer ": " 44 ",
+        " Seller ": " 49 ",
+        " Quantity ": "70",
+        " Rate (Rs) ": " 860.00 ",
+        " Amount (Rs) ": " 60,200.00 "
+    },
+    {
+        "SN": "5",
+        " Contract No. ": "2024112801019765",
+        " Stock Symbol ": " ANLB ",
+        " Buyer ": " 62 ",
+        " Seller ": " 74 ",
+        " Quantity ": "10",
+        " Rate (Rs) ": " 5,190.00 ",
+        " Amount (Rs) ": " 51,900.00 "
+    },
+    {
+        "SN": "6",
+        " Contract No. ": "2024112801019764",
+        " Stock Symbol ": " RFPL ",
+        " Buyer ": " 62 ",
+        " Seller ": " 61 ",
+        " Quantity ": "525",
+        " Rate (Rs) ": " 926.00 ",
+        " Amount (Rs) ": " 486,150.00 "
+    },
+    {
+        "SN": "7",
+        " Contract No. ": "2024112805013328",
+        " Stock Symbol ": " PHCL ",
+        " Buyer ": " 22 ",
+        " Seller ": " 36 ",
+        " Quantity ": "50",
+        " Rate (Rs) ": " 561.00 ",
+        " Amount (Rs) ": " 28,050.00 "
+    },
+    {
+        "SN": "8",
+        " Contract No. ": "2024112804020850",
+        " Stock Symbol ": " NGPL ",
+        " Buyer ": " 44 ",
+        " Seller ": " 28 ",
+        " Quantity ": "500",
+        " Rate (Rs) ": " 480.00 ",
+        " Amount (Rs) ": " 240,000.00 "
+    },
+    {
+        "SN": "9",
+        " Contract No. ": "2024112804020849",
+        " Stock Symbol ": " NGPL ",
+        " Buyer ": " 44 ",
+        " Seller ": " 3 ",
+        " Quantity ": "500",
+        " Rate (Rs) ": " 479.00 ",
+        " Amount (Rs) ": " 239,500.00 "
+    },
+    {
+        "SN": "10",
+        " Contract No. ": "2024112805013327",
+        " Stock Symbol ": " PHCL ",
+        " Buyer ": " 22 ",
+        " Seller ": " 36 ",
+        " Quantity ": "10",
+        " Rate (Rs) ": " 561.00 ",
+        " Amount (Rs) ": " 5,610.00 "
+    },
+    {
+        "SN": "11",
+        " Contract No. ": "2024112803029181",
+        " Stock Symbol ": " EDBL ",
+        " Buyer ": " 17 ",
+        " Seller ": " 20 ",
+        " Quantity ": "10",
+        " Rate (Rs) ": " 682.90 ",
+        " Amount (Rs) ": " 6,829.00 "
+    },
+    {
+        "SN": "12",
+        " Contract No. ": "2024112804020848",
+        " Stock Symbol ": " JOSHI ",
+        " Buyer ": " 17 ",
+        " Seller ": " 45 ",
+        " Quantity ": "266",
+        " Rate (Rs) ": " 344.50 ",
+        " Amount (Rs) ": " 91,637.00 "
+    },
+    {
+        "SN": "13",
+        " Contract No. ": "2024112804020847",
+        " Stock Symbol ": " JOSHI ",
+        " Buyer ": " 17 ",
+        " Seller ": " 22 ",
+        " Quantity ": "50",
+        " Rate (Rs) ": " 343.50 ",
+        " Amount (Rs) ": " 17,175.00 "
+    },
+    {
+        "SN": "14",
+        " Contract No. ": "2024112804020846",
+        " Stock Symbol ": " JOSHI ",
+        " Buyer ": " 17 ",
+        " Seller ": " 38 ",
+        " Quantity ": "225",
+        " Rate (Rs) ": " 343.00 ",
+        " Amount (Rs) ": " 77,175.00 "
+    },
+    {
+        "SN": "15",
+        " Contract No. ": "2024112804020845",
+        " Stock Symbol ": " JOSHI ",
+        " Buyer ": " 17 ",
+        " Seller ": " 46 ",
+        " Quantity ": "100",
+        " Rate (Rs) ": " 343.00 ",
+        " Amount (Rs) ": " 34,300.00 "
+    },
+    {
+        "SN": "16",
+        " Contract No. ": "2024112804020844",
+        " Stock Symbol ": " JOSHI ",
+        " Buyer ": " 17 ",
+        " Seller ": " 43 ",
+        " Quantity ": "200",
+        " Rate (Rs) ": " 342.50 ",
+        " Amount (Rs) ": " 68,500.00 "
+    },
+    {
+        "SN": "17",
+        " Contract No. ": "2024112804020843",
+        " Stock Symbol ": " JOSHI ",
+        " Buyer ": " 17 ",
+        " Seller ": " 49 ",
+        " Quantity ": "179",
+        " Rate (Rs) ": " 342.00 ",
+        " Amount (Rs) ": " 61,218.00 "
+    },
+    {
+        "SN": "18",
+        " Contract No. ": "2024112804020842",
+        " Stock Symbol ": " JOSHI ",
+        " Buyer ": " 17 ",
+        " Seller ": " 57 ",
+        " Quantity ": "150",
+        " Rate (Rs) ": " 342.00 ",
+        " Amount (Rs) ": " 51,300.00 "
+    },
+    {
+        "SN": "19",
+        " Contract No. ": "2024112804020841",
+        " Stock Symbol ": " JOSHI ",
+        " Buyer ": " 17 ",
+        " Seller ": " 49 ",
+        " Quantity ": "140",
+        " Rate (Rs) ": " 342.00 ",
+        " Amount (Rs) ": " 47,880.00 "
+    },
+    {
+        "SN": "20",
+        " Contract No. ": "2024112804020840",
+        " Stock Symbol ": " JOSHI ",
+        " Buyer ": " 17 ",
+        " Seller ": " 42 ",
+        " Quantity ": "60",
+        " Rate (Rs) ": " 341.00 ",
+        " Amount (Rs) ": " 20,460.00 "
+    }
+]
